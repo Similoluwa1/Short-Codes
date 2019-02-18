@@ -612,7 +612,7 @@ a:hover {
 	height: 30px;
 	line-height: 30px;
 	color: #3eb0f7;
-	border-radius: 50%;
+	border-radius: 40%;
 	background: #fff;
 	border: solid 1px #3eb0f7;
 	-webkit-transition: all .8s ease;
